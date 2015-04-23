@@ -1,3 +1,24 @@
+## sicktoolbox (jade) - 1.0.103-0
+
+The packages in the `sicktoolbox` repository were released into the `jade` distro by running `/usr/bin/bloom-release sicktoolbox --track jade --rosdistro jade --new-track` on `Thu, 23 Apr 2015 00:32:15 -0000`
+
+The `sicktoolbox` package was released.
+
+Version of package(s) in repository `sicktoolbox`:
+- upstream repository: https://github.com/ros-drivers/sicktoolbox.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.103-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## sicktoolbox (hydro) - 1.0.103-2
 
 The packages in the `sicktoolbox` repository were released into the `hydro` distro by running `/usr/bin/bloom-release sicktoolbox -t hydro -r hydro` on `Mon, 16 Jun 2014 22:20:47 -0000`
