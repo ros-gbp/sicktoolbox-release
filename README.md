@@ -1,3 +1,26 @@
+## sicktoolbox (kinetic) - 1.0.104-2
+
+The packages in the `sicktoolbox` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release sicktoolbox --rosdistro kinetic` on `Fri, 10 May 2019 02:10:27 -0000`
+
+The `sicktoolbox` package was released.
+
+Version of package(s) in repository `sicktoolbox`:
+
+- upstream repository: https://github.com/ros-drivers/sicktoolbox.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.104-1`
+- new version: `1.0.104-2`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## sicktoolbox (kinetic) - 1.0.104-1
 
 The packages in the `sicktoolbox` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release sicktoolbox --rosdistro kinetic` on `Sat, 04 May 2019 17:21:05 -0000`
